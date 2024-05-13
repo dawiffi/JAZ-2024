@@ -11,19 +11,13 @@ import java.util.stream.Collectors;
 public class ChampionService {
     private final ChampionRepository repository;
 
+    private final ChampionMapper mapper;
+
     public ChampionResponse addChampion(ChampionCreateRequest request) {
-        Champion newChampion = new Champion();
-        newChampion.setName(request.getName());
-        newChampion.setRole(request.getRole());
-        newChampion.setRegion(request.getRegion());
+        Champion entity = mapper.toEntity(request);
+        Champion saved = repository.save(entity);
 
-        Champion saved = repository.save(newChampion);
-
-        ChampionResponse response = new ChampionResponse();
-        response.setId(saved.getId());
-        response.setName(saved.getName());
-
-        return response;
+        return mapper.toResponse(saved);
     }
 
     public List<ChampionResponse> getAllChampions(){
@@ -37,27 +31,15 @@ public class ChampionService {
     public ChampionResponse getChampion(Long id){
         Champion saved = repository.getReferenceById(id);
 
-        ChampionResponse response = new ChampionResponse();
-        response.setId(saved.getId());
-        response.setName(saved.getName());
-        response.setRole(saved.getRole());
-        response.setRegion(saved.getRegion());
-        response.setDamage_type(saved.getDamage_type());
-
-        return response;
+        return mapper.toResponse(saved);
     }
 
     public ChampionResponse updateChampion(Long id, ChampionUpdateRequest request){
         Champion champion = repository.getReferenceById(id);
-        champion.setName(request.getName());
-        champion.setRole(request.getRole());
+        Champion update = mapper.toUpdate(champion, request);
+        Champion saved = repository.save(update);
 
-        ChampionResponse response = new ChampionResponse();
-        response.setId(champion.getId());
-        response.setName(champion.getName());
-        response.setRole(champion.getRole());
-
-        return response;
+        return mapper.toResponse(saved);
     }
 
     public void deleteChampion(Long id){

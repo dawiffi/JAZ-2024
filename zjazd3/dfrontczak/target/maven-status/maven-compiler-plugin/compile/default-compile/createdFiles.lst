@@ -1,0 +1,10 @@
+com\example\dfrontczak\ChampionController.class
+com\example\dfrontczak\ChampionService.class
+com\example\dfrontczak\ChampionRepository.class
+com\example\dfrontczak\DfrontczakApplication.class
+com\example\dfrontczak\ChampionMapperImpl.class
+com\example\dfrontczak\Champion.class
+com\example\dfrontczak\ChampionResponse.class
+com\example\dfrontczak\ChampionUpdateRequest.class
+com\example\dfrontczak\ChampionCreateRequest.class
+com\example\dfrontczak\ChampionMapper.class
