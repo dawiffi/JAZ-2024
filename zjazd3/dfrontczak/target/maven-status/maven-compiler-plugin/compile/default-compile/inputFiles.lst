@@ -1,9 +1,47 @@
-C:\Users\LENOVO\Desktop\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionController.java
-C:\Users\LENOVO\Desktop\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionCreateRequest.java
-C:\Users\LENOVO\Desktop\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionRepository.java
-C:\Users\LENOVO\Desktop\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionMapper.java
-C:\Users\LENOVO\Desktop\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionUpdateRequest.java
-C:\Users\LENOVO\Desktop\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionResponse.java
-C:\Users\LENOVO\Desktop\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\DfrontczakApplication.java
-C:\Users\LENOVO\Desktop\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionService.java
-C:\Users\LENOVO\Desktop\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\Champion.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\GetChampionsApi.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\auth\ApiKeyAuth.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\DfrontczakApplication.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionRepository.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\GetChampionApi.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\AddChampionApi.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\UpdateChampionApiController.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\ApiResponse.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\Champion.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\ApiException.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\UpdateChampionApi.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\ApiCallback.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\DeleteChampionApi.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\model\ChampionResponse.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\model\ChampionUpdateRequest.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\auth\HttpBasicAuth.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\model\ChampionCreateRequest.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionResponse.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionCreateRequest.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\api\ChampionsApi.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\Configuration.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\GetChampionsApiDelegate.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\JSON.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\model\ChampionResponse.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionMapper.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\ApiClient.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\UpdateChampionApiDelegate.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\GzipRequestInterceptor.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\StringUtil.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\ProgressResponseBody.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\GetChampionsApiController.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\GetChampionApiDelegate.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\auth\OAuth.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\auth\Authentication.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\GetChampionApiController.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionUpdateRequest.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionService.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\AddChampionApiController.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\model\ChampionUpdateRequest.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\Pair.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\ProgressRequestBody.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\DeleteChampionApiController.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\model\ChampionCreateRequest.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\ChampionController.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\AddChampionApiDelegate.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\src\main\java\com\example\dfrontczak\swagger\client\auth\OAuthFlow.java
+C:\Users\dfrontcz\OneDrive - NANDPS\Desktop\semestr 4\jaz2004\zjazd3\dfrontczak\target\generated-sources\openapi\src\main\java\com\baeldung\openapi\api\DeleteChampionApiDelegate.java

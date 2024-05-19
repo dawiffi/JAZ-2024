@@ -1,6 +1,9 @@
 package com.example.dfrontczak;
 
+import com.example.dfrontczak.swagger.client.api.ChampionsApi;
 import lombok.RequiredArgsConstructor;
+import org.apache.coyote.Response;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -16,8 +19,8 @@ public class ChampionController {
     }
 
     @GetMapping("/getChampions")
-    public List<ChampionResponse> getChampions(){
-        return service.getAllChampions();
+    public ResponseEntity<List<ChampionResponse>> getChampions(){
+        return ResponseEntity.ok(service.getAllChampions());
     }
 
     @GetMapping("/getChampion/{id}")
